@@ -1,0 +1,25 @@
+1.mkdir test
+2.cat employeelist
+  cat skillset
+3.mkdir test2
+cat skillset
+ln -s skillset sfile
+ln skillset hfile
+rm skillset
+4.chmod user2 g+r+w file1
+5.chmod user2 g+r-w file1
+6.chmod user o+w file1
+7.chmod user o-w file1
+8.chgrp user3 employeelist
+9.chown user5 skillset
+10.wc employees -l
+11.cat>file1
+12.cat>>file1
+13.cat>file2
+14.cat file1
+cat file2
+15.cat file1 file2 
+16.cat file1 file2>file3
+17.cat file1 file2 file3 file4 file5 file6
+
+
